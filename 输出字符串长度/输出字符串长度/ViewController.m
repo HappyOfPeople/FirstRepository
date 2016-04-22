@@ -17,7 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+<<<<<<< HEAD
     
+=======
+>>>>>>> parent of e73f57f... ss
     NSLog(@"%@",[self longth:@123456 with:3]);
 }
 
