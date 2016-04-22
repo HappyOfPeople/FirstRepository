@@ -18,8 +18,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSString *str;
-    
     NSLog(@"%@",[self longth:@123456 with:3]);
 }
 
